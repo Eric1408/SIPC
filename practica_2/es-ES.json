@@ -1,0 +1,48 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "curiosidades espaciales",
+          "intents": [
+              {
+                  "name": "AMAZON.CancelIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.HelpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StopIntent",
+                  "samples": []
+              },
+              {
+                  "name": "GetFactIntent",
+                  "slots": [],
+                  "samples": [
+                      "dime una curiosidad",
+                      "una curiosidad",
+                      "quiero una curiosidad",
+                      "dame una curiosidad"
+                  ]
+              },
+              {
+                  "name": "AMAZON.NavigateHomeIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NextIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NoIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.YesIntent",
+                  "samples": []
+              }
+          ],
+          "types": []
+      }
+  }
+}
